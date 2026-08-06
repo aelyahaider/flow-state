@@ -1,0 +1,31 @@
+{
+  "name": "Flow State",
+  "short_name": "Flow State",
+  "description": "Personal wellness tracking app for LUMS students",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6B5B95",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect fill='%236B5B95' width='192' height='192'/><text x='96' y='110' font-size='100' fill='white' text-anchor='middle' dominant-baseline='middle' font-family='serif' font-weight='bold'>FS</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect fill='%236B5B95' width='512' height='512'/><text x='256' y='310' font-size='280' fill='white' text-anchor='middle' dominant-baseline='middle' font-family='serif' font-weight='bold'>FS</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 540 720'><rect fill='%23F5F0E8' width='540' height='720'/><text x='270' y='100' font-size='48' fill='%236B5B95' text-anchor='middle' font-family='serif' font-weight='bold'>Flow State</text></svg>",
+      "sizes": "540x720",
+      "type": "image/svg+xml"
+    }
+  ]
+}
